@@ -1,7 +1,7 @@
 [![Header](https://res.cloudinary.com/hapiii/image/upload/v1665566388/HYF/tgdamy2bfi0hilber3tk.jpg)](https://some-url.dev/)
 
 ### Hi there 👋 I'm Heba Salem 
-a Web Developer
+## Web Developer
 I am from Egypt, and living in Amsterdam, Netherlands
 
 <!--
