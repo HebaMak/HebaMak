@@ -21,9 +21,16 @@
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
  ![alt text](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
  ![alt text](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jQuery)
- ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
+ ![alt text](https://img.shields.io/badge/Git--F05032?style=for-the-badge&logo=Git)
+ ![alt text](https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=GitHub)
  ![alt text](https://img.shields.io/badge/Pug--A86454?style=for-the-badge&logo=Pug)
  ![alt text](https://img.shields.io/badge/gulp--CF4647?style=for-the-badge&logo=gulp)
+ ![alt text](https://img.shields.io/badge/npm--CB3837?style=for-the-badge&logo=npm)
+ ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen)
+ ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
+ ![alt text](https://img.shields.io/badge/Render--46E3B7?style=for-the-badge&logo=Render)
+ ![alt text](https://img.shields.io/badge/Netlify--00C7B7?style=for-the-badge&logo=Netlify)
+
 
 
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
