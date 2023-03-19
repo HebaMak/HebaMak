@@ -13,7 +13,7 @@
  ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
  ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
  ![alt text](https://img.shields.io/badge/Express.js--cc0000?style=for-the-badge&logo=Express)
- ![alt text](https://img.shields.io/badge/React.js--cc0000?style=for-the-badge&logo=React)
+ ![alt text](https://img.shields.io/badge/React.js--61DAFB?style=for-the-badge&logo=React)
  ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
  ![alt text](https://img.shields.io/badge/Node.js--339933?style=for-the-badge&logo=nodedotjs)
  ![alt text](https://img.shields.io/badge/Sass--CC6699?style=for-the-badge&logo=Sass)
@@ -21,7 +21,7 @@
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
  ![alt text](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
  ![alt text](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jQuery)
- ![alt text](https://img.shields.io/badge/Visual Studio Code--007ACC?style=for-the-badge&logo=Visual Studio Code)
+ ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
  ![alt text](https://img.shields.io/badge/Pug--A86454?style=for-the-badge&logo=Pug)
  ![alt text](https://img.shields.io/badge/gulp--CF4647?style=for-the-badge&logo=gulp)
 
