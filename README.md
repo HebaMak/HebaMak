@@ -40,6 +40,13 @@
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
    
+   
+ ##### The next plan study the following:
+   ![alt text](https://img.shields.io/badge/PHP--777BB4?style=for-the-badge&logo=PHP)
+   ![alt text](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel)
+   ![alt text](https://img.shields.io/badge/React-Native--764ABC?style=for-the-badge&logo=React)
+   ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
+   
 
 ##### 📫 How to reach me:
 
