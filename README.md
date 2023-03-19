@@ -64,6 +64,9 @@
 <a href="https://github.com/HebaMak/Makeup-store-API-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=Makeup-store-API-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="API project" />
 </a>
+<a href="https://github.com/HebaMak/simple-ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=simple-ecommerce-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="API project" />
+</a>
 
 <!--
 **HebaMak/HebaMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
