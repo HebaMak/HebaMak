@@ -51,6 +51,19 @@
 ##### 📫 How to reach me:
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/heba-salem-273710109/) [<img src="https://img.shields.io/badge/-Gmail-fff?logo=gmail" height="30" alt="Gmail">](heba.alzirsalem@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='30'>](https://codepen.io/Hapiii) 
+   
+   
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/HebaMak/Courier4Me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=Courier4Me&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+<a href="https://github.com/HebaMak/tv-maze">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=tv-maze&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+<a href="https://github.com/HebaMak/Makeup-store-API-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=Makeup-store-API-app&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
 
 <!--
 **HebaMak/HebaMak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
