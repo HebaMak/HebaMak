@@ -19,7 +19,11 @@
  ![alt text](https://img.shields.io/badge/Sass--CC6699?style=for-the-badge&logo=Sass)
  ![alt text](https://img.shields.io/badge/Css3--1572B6?style=for-the-badge&logo=css3)
  ![alt text](https://img.shields.io/badge/Bootstrap--7952B3?style=for-the-badge&logo=Bootstrap)
+ ![alt text](https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=JavaScript)
  ![alt text](https://img.shields.io/badge/jQuery--0769AD?style=for-the-badge&logo=jQuery)
+ ![alt text](https://img.shields.io/badge/Visual Studio Code--007ACC?style=for-the-badge&logo=Visual Studio Code)
+ ![alt text](https://img.shields.io/badge/Pug--A86454?style=for-the-badge&logo=Pug)
+ ![alt text](https://img.shields.io/badge/gulp--CF4647?style=for-the-badge&logo=gulp)
 
 
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
