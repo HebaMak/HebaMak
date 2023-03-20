@@ -1,5 +1,3 @@
-[![Header](https://res.cloudinary.com/hapiii/image/upload/v1666731539/HYF/ipvd7ifblua1fqrecyey.gif)](https://some-url.dev/)
-
 ### Hi there 👋 I'm Heba Salem 
 ### Web Developer
 ##### I am from Egypt, and living in Amsterdam, Netherlands
