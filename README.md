@@ -43,7 +43,7 @@
    ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
-   ![alt text](https://img.shields.io/badge/Jest, unit.test--C21325?style=for-the-badge&logo=jest)
+   ![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest)
    
    
  ##### The next plan study the following:
