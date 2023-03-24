@@ -62,6 +62,8 @@
    
 ## 🗂️ Highlight Projects
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  <a href="https://github.com/HebaMak/Courier4Me">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HebaMak&repo=Courier4Me&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HYF graduation project" />
  </a>
