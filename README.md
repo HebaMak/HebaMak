@@ -13,9 +13,10 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak)](https://github.com/HebaMak/github-readme-stats)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&layout=compact)
+
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true)
 
 
 ##### Technologies I have worked with:!
