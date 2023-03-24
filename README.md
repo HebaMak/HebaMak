@@ -11,13 +11,8 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&layout=compact)](https://github.com/HebaMak/github-readme-stats)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak)](https://github.com/HebaMak/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak)](https://github.com/HebaMak/github-readme-stats) -->
  
-
- 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true&theme=dark)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true&theme=radical)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true&theme=highcontrast)
 
 
