@@ -15,7 +15,6 @@
  
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&count_private=true)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true)
 
 
