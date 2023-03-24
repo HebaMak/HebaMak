@@ -9,12 +9,11 @@
   <img src="https://res.cloudinary.com/hapiii/image/upload/v1679305878/ae3jjcn1dxtm9g4lrubb.svg" alt="snake"></center>
  </div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&layout=compact)](https://github.com/HebaMak/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&layout=compact)](https://github.com/HebaMak/github-readme-stats&theme=highcontrast)
  
 
 <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak)](https://github.com/HebaMak/github-readme-stats) -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&langs_count=8)](https://github.com/HebaMak/github-readme-stats)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&show_icons=true&theme=highcontrast)
 
 
