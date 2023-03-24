@@ -13,7 +13,8 @@
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak)](https://github.com/HebaMak/github-readme-stats)
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&hide=contribs,prs)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HebaMak&layout=compact)
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HebaMak&count_private=true)
 
 
