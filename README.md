@@ -43,7 +43,9 @@
 
 
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
-   ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
+
+   ![alt text](https://img.shields.io/badge/PHP--777BB4?style=for-the-badge&logo=PHP)
+   ![alt text](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel)
    ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
    ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
@@ -52,10 +54,10 @@
    
    
  ##### The next plan study the following:
-   ![alt text](https://img.shields.io/badge/PHP--777BB4?style=for-the-badge&logo=PHP)
-   ![alt text](https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=Laravel)
+   
    ![alt text](https://img.shields.io/badge/React.Native--61DAFB?style=for-the-badge&logo=React)
    ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
+   ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
    
 
 ##### 📫 How to reach me:
