@@ -51,15 +51,15 @@
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
    ![alt text](https://img.shields.io/badge/Jest,unit.test--C21325?style=for-the-badge&logo=jest)
+   ![alt text](https://img.shields.io/badge/C%23--239120?style=for-the-badge&logo=c-sharp)
+   ![alt text](https://img.shields.io/badge/Python--3776ab?style=for-the-badge&logo=python)
    
    
  ##### The next plan study the following:
    
    ![alt text](https://img.shields.io/badge/React.Native--61DAFB?style=for-the-badge&logo=React)
    ![alt text](https://img.shields.io/badge/Vue.js--4FC08D?style=for-the-badge&logo=Vue.js)
-   ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
-   ![alt text](https://img.shields.io/badge/C%23--239120?style=for-the-badge&logo=c-sharp)
-   ![alt text](https://img.shields.io/badge/Python--3776ab?style=for-the-badge&logo=python)
+   
    
 
 ##### 📫 How to reach me:
