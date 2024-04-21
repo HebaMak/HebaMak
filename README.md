@@ -39,9 +39,8 @@
  ![alt text](https://img.shields.io/badge/MogoDB--47A248?style=for-the-badge&logo=MongoDB)
  ![alt text](https://img.shields.io/badge/SQL,MySQL--4479A1?style=for-the-badge&logo=MySQL)
  ![alt text](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
- ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-
+ ![alt text](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+ ![alt text](https://img.shields.io/badge/SQLAlchemy-FFA500?style=for-the-badge&logo=sqlalchemy&logoColor=white)
  ![alt text](https://img.shields.io/badge/npm--CB3837?style=for-the-badge&logo=npm)
  ![alt text](https://img.shields.io/badge/CodePen--000000?style=for-the-badge&logo=CodePen)
  ![alt text](https://img.shields.io/badge/VSCode--007ACC?style=for-the-badge&logo=Visual-Studio-Code)
@@ -53,10 +52,10 @@
 ##### 🔭 I’m currently working on updating my skills on the following technologies:
 
    ![alt text](https://img.shields.io/badge/C%23--239120?style=for-the-badge&logo=c-sharp)
-   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-   ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+   ![alt text](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+   ![alt text](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+   ![alt text](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+   ![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
    ![alt text](https://img.shields.io/badge/Redux--764ABC?style=for-the-badge&logo=Redux)
    ![alt text](https://img.shields.io/badge/TypeScript--3178C6?style=for-the-badge&logo=TypeScript)
    ![alt text](https://img.shields.io/badge/Webpack--8DD6F9?style=for-the-badge&logo=Webpack)
